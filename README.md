@@ -18,3 +18,19 @@ You can add tasks, view tasks, delete tasks, and exit the program.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/todo-list-python.git
+
+
+  ##👇DEMO
+
+  === To-Do List Menu ===
+1. Show Tasks
+2. Add Task
+3. Delete Task
+4. Exit
+Enter your choice (1-4): 2
+
+Enter new task: Buy groceries
+
+
+Task 'Buy groceries' added successfully!
+
